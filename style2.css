@@ -1,0 +1,245 @@
+@media screen and (max-width: 1024px){
+.menucake{
+        height:40px;
+        border-radius: 100%;
+}
+.logo{
+        font-size: 90%;
+}
+.menu_links a{
+    font-size:  90%;
+     padding: 15px;
+}
+.number{
+    font-size: 90%;
+}
+.banner_text{
+    font-size: 120%;
+}
+.banner a{
+    font-size: 70%;
+    padding: 2%;
+}
+    .cupcake_animation{
+    top: 20%;
+    right: 7%;
+}
+.cupcake1{
+    font-size: 500%;
+    right: 25%;
+    top: 45%;
+}
+.cupcake2 {
+    font-size: 500%;
+    right: 80%;
+    bottom: 40%;
+}
+.master_class{
+    height: 80%;
+    width: 70%;
+}
+.macaron{
+    height: 80%;
+    width: 70%;
+}
+.happy_birthday{
+    height: 80%;
+    width: 70%;
+}
+.menu_assortiment{
+    font-size: 100%;
+}
+.assortmenu{
+    height: 45%;
+    width: 25%;
+}
+.picture_menu2{
+    height: 80%;
+    width: 50%;
+}
+.cakes{
+    font-size: 110%;
+}
+.naverh{
+    width: 70px;
+    height: 70px;
+    bottom: 30px;
+    right: 60px;
+}
+iframe{
+        width: 110%;
+    }
+}
+@media screen and (max-width: 768px){
+.menucake{
+        height:40px;
+        border-radius: 100%;
+}
+.logo{
+        font-size: 80%;
+}
+.menu_links a{
+    font-size:  80%;
+     padding: 10px;
+}
+.number{
+    font-size: 80%;
+}
+.banner_text{
+    font-size: 100%;
+}
+.banner a{
+    font-size: 60%;
+    padding: 2%;
+}
+.cupcake_animation{
+    top: 20%;
+    right: 10%;
+}
+.cupcake1{
+    font-size: 450%;
+    right: 10%;
+    top: 60%;
+}
+.cupcake2 {
+    font-size: 450%;
+    right: 60%;
+    bottom:20%;
+}
+.master_class{
+    height: 70%;
+    width: 60%;
+}
+.macaron{
+    height: 70%;
+    width: 60%;
+}
+.happy_birthday{
+    height: 70%;
+    width: 60%;
+}
+.menu_assortiment{
+    height: 90%;
+    padding: 5% 10%;
+    font-size: 80%;
+}
+.assortmenu{
+    height: 50%;
+    width: 30%;
+    margin: 2%;
+}
+
+.picture_menu2{
+    height: 80%;
+    width: 50%;
+}
+.cakes{
+    font-size: 90%;
+}
+.delivery{
+    height: 100%;
+    padding: 5% 10%;
+}
+.text_delivery{
+    font-size: 100%;
+    padding: 5%;
+}
+.picture_delivery{
+    height: 70%;
+    width: 45%;
+}
+.naverh{
+    width: 60px;
+    height: 60px;
+    position: fixed;
+    bottom: 30px;
+    right: 60px;
+    border-radius: 80px;
+    z-index: 999;
+}
+iframe{
+        width: 100%;
+    }
+}
+@media screen and (max-width: 480px){
+.menucake{
+        height:30px;
+        border-radius: 100%;
+}
+.logo{
+        font-size: 50%;
+}
+.menu_links a{
+    font-size: 50%;
+     padding: 5px;
+}
+.number{
+    font-size: 50%;
+}
+.banner_text{
+    font-size: 80%;
+}
+.banner a{
+    font-size: 45%;
+    padding: 4%;
+}
+.cupcake_animation{
+    top: 40%;
+    right: 10%;
+}
+.cupcake1{
+    font-size: 300%;
+    right: 10%;
+    top: 70%;
+}
+.cupcake2 {
+    font-size: 300%;
+    right: 40%;
+    top: 50%;
+    bottom: 30%;
+}
+.master_class{
+    height: 60%;
+    width: 50%;
+}
+.macaron{
+     height: 60%;
+    width: 50%;
+}
+.happy_birthday{
+    height: 60%;
+    width: 50%;
+}
+.menu_assortiment{
+    height: 80%;
+    font-size: 70%;
+}
+.assortmenu{
+    height: 60%;
+    width: 30%;
+}
+.assortiment{
+    height: 50%;
+}
+.picture_menu2{
+    height: 100%;
+    width: 50%;
+}
+.cakes{
+    font-size: 60%;
+}
+.delivery{
+    height: 50%;
+}
+.text_delivery{
+    font-size: 80%;
+}
+iframe{
+        width: 90%;
+    }
+.naverh{
+    width: 50px;
+    height: 50px;
+
+}
+}
